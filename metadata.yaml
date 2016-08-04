@@ -1,0 +1,33 @@
+_repo: The-Devil-s-Paw_2767
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Oppenheim, E. Phillips (Edward Phillips)
+    aliases:
+    - Oppenheim, Edward Phillips
+    - Partridge, Anthony
+    birthdate: 1866
+    deathdate: 1946
+    gutenberg_agent_id: '594'
+    url: http://www.gutenberg.org/2009/agents/594
+    wikipedia: http://en.wikipedia.org/wiki/E._Phillips_Oppenheim
+description: Julian Orden, son of a British aristocrat and vocal espouser of the Socialist
+  cause attends a dinner party and meets Catherine, a young woman of mixed antecedents--British
+  and Russian. In her face he recognizes the person who saved his life on the beach
+  the night before. These two characters become caught up in a plan by the leaders
+  of the working people of Germany and England to force a premature end to World War
+  I.
+gutenberg_issued: '2001-08-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '2767'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Detective and mystery stories'
+- !lcc 'PR'
+- GITenberg
+title: The Devil's Paw
+url: http://www.gutenberg.org/ebooks/2767
