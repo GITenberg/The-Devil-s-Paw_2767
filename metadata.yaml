@@ -1,5 +1,8 @@
 _repo: The-Devil-s-Paw_2767
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Oppenheim, E. Phillips (Edward Phillips)
@@ -17,6 +20,8 @@ description: Julian Orden, son of a British aristocrat and vocal espouser of the
   the night before. These two characters become caught up in a plan by the leaders
   of the working people of Germany and England to force a premature end to World War
   I.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/2767#The-Devil-s-Paw
 gutenberg_issued: '2001-08-01'
 gutenberg_type: Text
 identifiers:
