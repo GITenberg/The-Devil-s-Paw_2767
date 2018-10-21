@@ -47,7 +47,7 @@ marshes, and occasional bursts of rain came streaming against the
 window panes. Inside at any rate was comfort, triumphing over varying
 conditions. The cloth upon the plain deal table was of fine linen, the
 decanter and glasses were beautifully cut; there were walnuts and, in
-a far Corner, cigars of a well-known brand and cigarettes from a famous
+a far corner, cigars of a well-known brand and cigarettes from a famous
 tobacconist. Beyond that little oasis, however, were all the evidences
 of a hired abode. A hole in the closely drawn curtains was fastened
 together by a safety pin. The horsehair easy-chairs bore disfiguring
@@ -276,13 +276,13 @@ instance, I discovered a most original cipher the other day."
 
 "Not at present. I discovered it, studying a telegram from Norway.
 It was addressed to a perfectly respectable firm of English timber
-merchants who have an office in the city. This was the original: `Fir
+merchants who have an office in the city. This was the original: 'Fir
 planks too narrow by half.' Sounds harmless enough, doesn't it?"
 
 "Absolutely. What's the hidden meaning?"
 
 "There I am still at a loss," Julian confessed, "but treated with the
-cipher it comes out as `Thirty-eight steeple on barn.'"
+cipher it comes out as 'Thirty-eight steeple on barn.'"
 
 Furley stared for a moment, then he lit his pipe.
 
@@ -325,7 +325,7 @@ Furley's forehead. He withdrew his pipe from between his teeth.
 
 "What did you say you made of it?" he demanded.
 
-"`Thirty-eight steeple on barn.'"
+"'Thirty-eight steeple on barn.'"
 
 "Thirty-eight! That's queer!"
 
@@ -355,7 +355,7 @@ I said, it's a coincidence."
 Furley had risen to his feet. He threw open the door and listened for a
 moment in the passage. When he came back he was carrying some oilskins.
 
-"Julian," he said, "I know you area bit of a cynic about espionage
+"Julian," he said, "I know you are a bit of a cynic about espionage
 and that sort of thing. Of course, there has been a terrible lot of
 exaggeration, and heaps of fellows go gassing about secret service jobs,
 all the way up the coast from here to Scotland, who haven't the least
@@ -1523,7 +1523,7 @@ think, too, that they trust me. Yet I am not sure that I cannot see a
 glimmering of what is at the back of Stenson's mind. There are a good
 many millions in the country who honestly believe that war is primarily
 an affair of the politicians; who believe, too, that victory means a
-great deal more to what they term `the upper classes' than it does to
+great deal more to what they term 'the upper classes' than it does to
 them. Yet, in every sense of the word, they are bearing an equal portion
 of the fight, because, when it comes down to human life, the life of the
 farm labourer's son is of the same intrinsic value as the life of the
@@ -1542,7 +1542,7 @@ situation, even if I knew more than you do, which is not the case, but
 I think it is clear that we have reached something like a temporary
 impasse. There certainly seems to be no cause for alarm upon any front,
 yet, not only in London, but in Paris and even Rome, there is a curious
-uneasiness afoot, for which no one can, account which no one can bring
+uneasiness afoot, for which no one can account which no one can bring
 home to any definite cause. In the same connection, we have confidential
 information that a new spirit of hopefulness is abroad in Germany. It
 has been reported to us that sober, clear-thinking men--and there are
@@ -1557,7 +1557,7 @@ is also, I believe, the truth."
 
 "One could apprehend and fear a great possible danger," Lord Shervinton
 observed, "if the Labour Party in Germany were as strong as ours, or
-if our own Labour, Party were entirely united. The present conditions,
+if our own Labour Party were entirely united. The present conditions,
 however, seem to me to give no cause for alarm."
 
 "That is where I think you are wrong," Hannaway Wells declared. "If the
@@ -2323,7 +2323,7 @@ our minds to be Lord High Chancellor."
 "Our friend Furley," Julian confided, as he leaned across the table and
 took a cigarette, "has no tact and many prejudices. He does write such
 rubbish about the aristocracy. I remember an article of his not very
-long ago, entitled `Out with our Peers!' It's all very well for a
+long ago, entitled 'Out with our Peers!' It's all very well for a
 younger son like me to take it lying down, but you could scarcely expect
 my father to approve. Besides, I believe the fellow's a renegade. I have
 an idea that he was born in the narrower circles himself."
@@ -2371,7 +2371,7 @@ the men who like to keep the government of this country in their own
 possession! They stretch down a hand to the one who has climbed the
 highest, they pull him up into the Government, and after that Labour
 is well quit of him. He has found his place with the gods. Perhaps they
-will make him a `Sir' and his wife a `Lady,' but for him it is all over
+will make him a 'Sir' and his wife a 'Lady,' but for him it is all over
 with the Cause. And so another ten years is wasted, while another man
 grows up to take his place."
 
@@ -2559,7 +2559,7 @@ Stenson's voice reached them from the other side of the ridge.
 "Come and show me the way across this wretched bit of marsh, Orden. I
 don't like these deceptive green grasses."
 
-"`Pitfalls for the Politician' or `Look before you leap'." Julian
+"'Pitfalls for the Politician' or 'Look before you leap'." Julian
 muttered aimlessly. "Quite right to avoid that spot, sir. Just follow
 where I am pointing."
 
@@ -2568,7 +2568,7 @@ Stenson made his laborious way to their side.
 "This may be a short cut back to the Hall," he exclaimed, "but except
 for the view of the sea and this gorgeous air, I think I should have
 preferred the main road! Help me up, Orden. Isn't it somewhere near here
-that that little affair, happened the other night?"
+that that little affair happened the other night?"
 
 "This very spot," Julian assented. "Miss Abbeway and I were just
 speaking of it."
@@ -2867,7 +2867,7 @@ outside. Her eyes were soft and filled with the desire of love, her lips
 sweet and tremulous. She had suddenly created a new atmosphere around
 her, an atmosphere of bewildering and passionate femininity.
 
-"Wont you tell me, please, what you mean?" he begged.
+"Won't you tell me, please, what you mean?" he begged.
 
 "Isn't it clear?" she answered, very softly but with a suspicion of
 scorn in her low tones. "You kissed me because I deliberately invited
@@ -3133,7 +3133,7 @@ right to it."
 
 "Let us understand one another, once and for all," he suggested. "I will
 not even discuss the question of rightful or wrongful possession. I have
-the packet, and I am going to keep it. You cannot cajole it put of me,
+the packet, and I am going to keep it. You cannot cajole it out of me,
 you cannot steal it from me. To-morrow I shall take it to London and
 deliver it to my friend at the Foreign Office. Nothing could induce me
 to change my mind."
@@ -3506,7 +3506,7 @@ Stenson laid his hand upon his companion's shoulder. "Come," he went on,
 The cry of the widow and the children lingers too long in your ears.
 Remember some of your earlier sermons at the beginning of the war.
 Remember how wonderfully you spoke one morning at St. Paul's upon the
-spirituality to be developed by suffering, by sacrifice. `The hand which
+spirituality to be developed by suffering, by sacrifice. 'The hand which
 chastises also purifies.' Wasn't that what you said? You probably didn't
 know that I was one of your listeners, even--I myself, in those days,
 scarcely looked upon the war as I do now. I remember crawling in at the
@@ -3514,7 +3514,7 @@ side door of the Cathedral and sitting unrecognised on a hard chair. It
 was a great congregation, and I was far away in the background, but I
 heard. I remember the rustle, too, the little moaning, indrawn breath of
 emotion when the people rose to their feet. Take heart, Bishop. I
-will remind you once more of your own words `These are the days of
+will remind you once more of your own words 'These are the days of
 purification.'"
 
 The two men separated. The Bishop walked thoughtfully towards the
@@ -3985,7 +3985,7 @@ Prime Minister was there and another Cabinet Minister. They spoke of the
 Labour Party and its leaderless state. They had no idea, of course,
 of the great Council which was already secretly formed, but they were
 unanimous about the necessity for a strong leader. Two people made
-the same remark, almost with apprehension: `If ever Paul Fiske should
+the same remark, almost with apprehension: 'If ever Paul Fiske should
 materialise, the problem would be solved!'"
 
 Fenn assented without enthusiasm.
@@ -4189,7 +4189,7 @@ running comments as he did so.
 "Hm! Our friend seems to have been quite a collector of old books. I
 expect second-hand booksellers found him rather a mark. Some fellow
 here thanking him for a loan. And here's a tailor's bill. By Jove, Miss
-Abbeway, just listen to this! `One dress suit-fourteen guineas!' That's
+Abbeway, just listen to this! 'One dress suit-fourteen guineas!' That's
 the way these fellows who don't know any better chuck their money
 about," he added, swinging around in his chair towards her. "The clothes
 I have on cost me exactly four pounds fifteen cash, and I guarantee his
@@ -4200,7 +4200,7 @@ Catherine frowned impatiently.
 "We did not come here, did we, Mr. Fenn, to discuss Mr. Orden's tailor's
 bill? I can see no object at all in going through his correspondence
 in this way. What you have to search for is a packet wrapped up in thin
-yellow oilskin, with `Number 17' on the outside in black ink."
+yellow oilskin, with 'Number 17' on the outside in black ink."
 
 "Oh, he might have slipped it in anywhere," Fenn pointed out. "Besides,
 there's always a chance that one of his letters may give us a clue as to
@@ -4397,7 +4397,7 @@ My dear Orden,
 
 I think it best to let you know, in case you haven't seen it yourself,
 that there is a reward of 100 pounds offered by some busybody for the
-name of the author of the `Paul Fiske' articles. Your anonymity has been
+name of the author of the 'Paul Fiske' articles. Your anonymity has been
 splendidly preserved up till now, but I feel compelled to warn you
 that a disclosure is imminent. Take my advice and accept it with a good
 grace. You have established yourself so irrevocably now that the value
@@ -4442,7 +4442,7 @@ false friends as Julian Orden."
 mystery? Why did you try to keep that letter from me?"
 
 "I conceived it to be for the benefit of our cause," he said
-didactically, "that the anonymity--of `Paul Fiske' should be preserved."
+didactically, "that the anonymity--of 'Paul Fiske' should be preserved."
 
 "Rubbish!" she scoffed. "You were afraid of him. Why, what fools we are!
 We will tell him the whole truth. We will tell him of our great scheme.
@@ -4451,7 +4451,7 @@ Bishop shall tell him, and you and I, and Miles Furley, and Cross. He
 shall hear all about it. He is with us! He must be with us! You shall
 put him on the Council. Why, there is your great difficulty solved,"
 she went on, in growing excitement. "There is not a working man in the
-country who would not rally under `Paul Fiske's' banner. There you have
+country who would not rally under 'Paul Fiske's' banner. There you have
 your leader. It is he who shall deliver your ultimatum."
 
 "I'm damned if it is!" Fenn declared, suddenly throwing his hat down and
@@ -4672,7 +4672,7 @@ Iris Villa, Acacia Road, Hampstead. I have just come from there."
 
 "Why not?" Catherine demanded.
 
-"Because he wasn't there hasn't been since three o'clock this
+"Because he wasn't there, hasn't been since three o'clock this
 afternoon."
 
 "You've moved him?" Furley asked eagerly.
@@ -4688,7 +4688,7 @@ He glanced somewhat defiantly towards Catherine. He seemed to know quite
 well from whence the challenge of his words would come.
 
 "You tell us," Catherine said, mastering her emotion with an effort,
-"that Julian Orden, whom we now know to be `Paul Fiske', has escaped.
+"that Julian Orden, whom we now know to be 'Paul Fiske', has escaped.
 Just what do you mean?"
 
 "I can scarcely reduce my statement to plainer words," Fenn replied,
@@ -4944,7 +4944,7 @@ and lit it.
 "No objection," his friend yawned. "What's wrong now?"
 
 "Haven't you heard the news? It seems he's the fellow who has been
-writing those articles on Socialism and Labour, signing them `Paul
+writing those articles on Socialism and Labour, signing them 'Paul
 Fiske.' Idealistic rubbish, but of course the Bishop and his lot are
 raving about him."
 
@@ -5762,7 +5762,7 @@ may, within the next few days."
 and I both know, so far as regards those peace terms, that--"
 
 "If we both know," he interrupted, "let us keep each our own knowledge.
-Words are sometimes very, dangerous, and great events are looming.
+Words are sometimes very dangerous, and great events are looming.
 So, Countess! You have perhaps a car, or may I have the pleasure of
 escorting you to your destination?"
 
@@ -5959,7 +5959,7 @@ enquired anxiously.
 "Most surely I do," Fenn replied. "Remember that if the people make
 peace for the country, it is the people who will expect to govern the
 country. It will be a notice to the politicians to quit. They know that.
-It is my belief that they, will resist, tooth and nail."
+It is my belief that they will resist, tooth and nail."
 
 Bright glanced at his watch.
 
@@ -5998,13 +5998,13 @@ are. I don't care whether he is the son of an earl, or a plasterer's
 apprentice, as I was. He's the right stuff, he has the gift of putting
 the words together, and his heart's where it should be."
 
-"There is no one," Penn said; his voice trembling a little, "who has a
+"There is no one," Fenn said, his voice trembling a little, "who has a
 greater admiration for Paul Fiske's writings than I have, but I still
 contend that he is not Labour."
 
 "Sit down, lad," Cross enjoined. "We'll have a vote on that. I'm for
 saying that Mr. Julian Orden here, who has written them articles under
-the name of `Paul Fiske', is a full member of our Council and eligible
+the name of 'Paul Fiske', is a full member of our Council and eligible
 to act as our messenger to the Prime Minister. I ask the Bishop to put
 it to the meeting."
 
@@ -6016,7 +6016,7 @@ was a brief silence whilst the latter, assisted by Cross and Sands,
 counted the votes. Then the Bishop rose to his feet.
 
 "Mr. Julian Orden," he announced, "better known to you all under the
-name of `Paul Fiske', has been chosen by a large majority as your
+name of 'Paul Fiske', has been chosen by a large majority as your
 representative to take the people's message to the Prime Minister."
 
 "I protest!" Fenn exclaimed passionately. "This is Mr. Orden's first
@@ -6094,7 +6094,7 @@ whom I am expecting."
 "You?" Mr. Stenson exclaimed, in blank bewilderment.
 
 "I ought to explain a little further, perhaps. I have been writing on
-Labour questions for some time under the pseudonym of `Paul Fiske'."
+Labour questions for some time under the pseudonym of 'Paul Fiske'."
 
 "Paul Fiske?" Mr. Stenson gasped. "You--Paul Fiske?"
 
@@ -6129,7 +6129,7 @@ colleague. The former wasted no time in explanations.
 "You will doubtless be as astonished as I was, Wells," he said, "to
 learn that our friend Julian Orden comes here as the representative of
 the new Labour Council. His qualifications, amongst others, are that
-under the pseudonym of `Paul Fiske' he is the writer of those wonderful
+under the pseudonym of 'Paul Fiske' he is the writer of those wonderful
 articles which have been the beacon light and the inspiration of the
 Labour Party for the last year."
 
@@ -6307,7 +6307,7 @@ considering your birth and education, one of the most perilous loads
 which any man could carry."
 
 "I have weighed the consequences," Julian replied, with a sudden and
-curious sadness in his tone. "I know how the name of `pacifist' stinks
+curious sadness in his tone. "I know how the name of 'pacifist' stinks
 in the nostrils. I know how far we are committed as a nation to a peace
 won by force of arms. I know how our British blood boils at the thought
 of leaving a foreign country with as many military advantages as Germany
@@ -6433,7 +6433,7 @@ will have ceased to beat."
 "Exactly three months," David Sands observed, turning around in his
 swing chair from the desk at which he had been writing. "The scheme was
 started a few days after your article in the British Review. We took
-your motto as our text `Coordination and cooperation.'"
+your motto as our text 'Coordination and cooperation.'"
 
 They found their way into the clubroom, and at luncheon, later on,
 Julian strove to improve his acquaintance with the men who were seated
@@ -6487,7 +6487,7 @@ Julian declared. "It's human talk, that."
 "It's just a plain man's words and thoughts," was the simple reply.
 
 "And yet," Fenn complained, in his thin voice, "if I talk like that,
-they call me a pacifist, a lot of rowdies get up and sing `Rule
+they call me a pacifist, a lot of rowdies get up and sing 'Rule
 Britannia', and try to chivy me out of the hall where I'm speaking."
 
 "You see, there's a difference, lad," Cross pointed out, setting down
@@ -6528,7 +6528,7 @@ I make no secret of this. I tumbled to it from the first that this was a
 great proposition, this amalgamation of Labour. It makes a power of us,
 even though it may, as you, Mr. Orden, said in one of your articles,
 bring us to the gates of revolution. But it was all I could do to bring
-myself to sit down at the same table with Penn and his friend Bright.
+myself to sit down at the same table with Fenn and his friend Bright.
 You see," he explained, "there may be times when you are forced into
 doing a thing that fundamentally you disapprove of and you know is
 wrong. I disapprove of this war, and I know it's wrong--it's a foul mess
@@ -6576,7 +6576,7 @@ Julian recovered from a momentary fit of astonishment.
 
 "And never you mind about the 'Mr.', sir," the Northumbrian begged.
 
-"Nor you about the `sir'," Julian retorted, with a smile.
+"Nor you about the 'sir'," Julian retorted, with a smile.
 
 "Middle stump," Cross acknowledged. "And since we are on the subject,
 my new friend, let me tell you this. To feel perfectly happy about this
@@ -6585,7 +6585,7 @@ Bright--and the young lady."
 
 "Why the young lady?" Julian asked quickly.
 
-"You might as well ask me, `Why Fenn and Bright?'" the other replied.
+"You might as well ask me, 'Why Fenn and Bright?'" the other replied.
 "I shouldn't make no answer. We're superstitious, you know, we north
 country folk, and we are all for instincts. All I can say to you is that
 there isn't one of those three I'd trust around the corner."
@@ -6608,7 +6608,7 @@ and was looking around as though in search of some one.
 
 Catherine was more heavily veiled than usual. Her dress and hat were
 of sombre black, and her manner nervous and disturbed. She came slowly
-to-wards their end of the table, although she was obviously in search of
+towards their end of the table, although she was obviously in search of
 some one else.
 
 "Do you happen to know where Mr. Fenn is?" she enquired.
@@ -7515,7 +7515,7 @@ The man groaned.
 
 "Pull myself together!" he said angrily. "Mr. Orden, sir, I'm trying to
 keep respectful, but it's a hard thing. I've been reading the evening
-papers. There's an article, signed `Paul Fiske', in the Pall Mall. They
+papers. There's an article, signed 'Paul Fiske', in the Pall Mall. They
 tell me that you're Paul Fiske. You're for peace, it seems--for peace
 with the German Emperor and his bloody crew."
 
